@@ -189,6 +189,10 @@ header{
     color: #fff;
     padding: 15px 10px;
     cursor: pointer;
-    text-decoration: none;
+    text-decoration: none; 
+    font-size: 18px; 
+    color: blue; 
+    text-decoration: none; 
+    target="_blank";
 }
 
