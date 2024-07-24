@@ -35,6 +35,12 @@ header{
     padding: 30px 0 40px 0;
 }
 
+--------------------------------------------------------
+
+a {
+    text-decoration: none;
+}
+
 .container-icon{
     position: relative;
 }
